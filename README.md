@@ -2,7 +2,7 @@
 <h2>Data Analytics Projects</h2>
 
 - <b>Excel Project</b>
-  - [Practicing Statistical Methods, Calculations Using Formulas and Pivot Tables, Using Slicers and Conditional Formatting](https://github.com/Beszter1/Beszter1/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
+  - [Practicing Statistical Methods, Calculations Using Formulas and Pivot Tables, Using Slicers and Conditional Formatting](https://github.com/Beszter1/ExcelProject/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
 - <b>Visualization using Power BI with Excel Data</b>
   - [Practice building a data analysis visuals dashboard using sales data of a company](https://github.com/Beszter1)
 - <b>Visualization Using SQL Data with Power BI - 1.</b>
