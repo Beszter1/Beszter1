@@ -5,9 +5,9 @@
   - [Practicing Statistical Methods, Calculations Using Formulas and Pivot Tables, Using Slicers and Conditional Formatting](https://github.com/Beszter1/Beszter1/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
 - <b>Visualization using Power BI with Excel Data</b>
   - [Practice building a data analysis visuals dashboard using sales data of a company](https://github.com/Beszter1)
-- <b>Visualization Using SQL Data with Power BI</b>
+- <b>Visualization Using SQL Data with Power BI - 1.</b>
   - [Build a data analysis visuals dashboard using Sales data of a company. Analysis includes the below reports to be developed using Power BI and SQL Data](https://github.com/Beszter1)
-- <b>Visualization Using SQL Data with Power BI</b>
+- <b>Visualization Using SQL Data with Power BI - 2.</b>
   - [Build a data analysis visuals dashboard using Sales data of a company. Analysis includes the below reports to be developed using Power BI and SQL Data](https://github.com/Beszter1)
 - <b>Visualization of SQL Data with Power BI using Python Program</b>
   - [Build a data analysis visuals dashboard using Sales data of a company. Analysis includes the below reports to be developed using Power BI and SQL Data and Using Python Program
