@@ -9,14 +9,17 @@
     - Technologies Used: Microsoft Excel, Microsoft Power BI
  
 <strong>TBD</strong>
-- <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Data with Power BI - 1.</strong></a>
-  - Build a data analysis visuals dashboard using Sales data of a company. Analysis to be developed using Power BI and SQL Data.
+- <a href="https://github.com/Beszter1"><strong>Visualization Using CSV Import Data with Power BI</strong></a>
+  - Build a data analysis visual dashboard using Employee and Department data of a company. This project uses two CSV documents and insights to be developed using Power BI.
+  - Technologies Used: CSV files, Microsoft Power BI
+- <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Direct Query Data with Power BI</strong></a>
+  - Build a data analysis visual dashboard using Employee and Department data of a company. Analysis to be developed using SQL Direct Query Data and Power BI.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI
-- <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Data with Power BI - 2.</strong></a>
-  - Build a data analysis visuals dashboard using Sales data of a company. Analysis to be developed using Power BI and SQL Data.
+- <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Import Data with Power BI</strong></a>
+  - Build a data analysis visual dashboard using Employee and Department data of a company. Insights to be developed using SQL Import Data from the SQL Database and Power BI.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI
 - <a href="https://github.com/Beszter1"><strong>Visualization of SQL Data with Power BI using Python Program</strong></a>
-  - Build a data analysis visuals dashboard using Sales data of a company. Analysis to be developed using Power BI and SQL Data and Using Python Program.
+  - Build a data analysis visual dashboard using Sales data of a company. Analysis to be developed using Power BI and SQL Data and Using Python Program.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI, Python 
 
 
