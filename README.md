@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eszter! <br/><a href="https://github.com/Beszter1">Aspiring Data Analyst</a>, <a href="https://www.linkedin.com/in/eszter-stephen-bujtor/">Quality Management Professional</a>
+<h1>Hi, I'm Eszter! <br/><a href="https://github.com/Beszter1">Junior Data Analyst</a>, <a href="https://www.linkedin.com/in/eszter-stephen-bujtor/">Quality Management Professional</a>
 <h2>Data Analytics Training Projects</h2>
 
 - <a href="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx"><strong>Data Analysis using Excel Data</strong></a>
