@@ -16,8 +16,11 @@
  
 <strong>TBD</strong>
 - <a href="https://github.com/Beszter1"><strong>Visualization Using CSV Import Data with Power BI</strong></a>
-  - Build a data analysis visual dashboard using Employee and Department data of a company. This project uses two CSV documents and insights to be developed using Power BI.
+  - Built an analytical visual dashboard using Employee and Department data of a company. This project uses two CSV flat data documents with established relationship between them for descriptive analysis and deriving insights with Power BI. 
   - Technologies Used: CSV files, Microsoft Power BI
+
+
+ 
 - <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Direct Query Data with Power BI</strong></a>
   - Build a data analysis visual dashboard using Employee and Department data of a company. Analysis to be developed using SQL Direct Query Data and Power BI.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI
