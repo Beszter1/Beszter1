@@ -13,20 +13,26 @@
  
    [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel-PowerBI%20Project%20Screenshot.png" width="500" title="Excel-PowerBI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Power%20BI%20Project%20-%20Video%20Games%20Sales%20-%20Eszter%20Stephen-Bujtor.pbix)  
    
- 
-<strong>TBD</strong>
 - <a href="https://github.com/Beszter1"><strong>Visualization Using CSV Import Data with Power BI</strong></a>
-  - Built an analytical visual dashboard using Employee and Department data of a company. This project uses two CSV flat data documents with established relationship between them for descriptive analysis and deriving insights with Power BI. 
+  - Built an analytical visual dashboard using Employee and Department data of a company. This project uses two CSV flat data documents with an established relationship between them for descriptive analysis and deriving insights with Power BI. 
   - Technologies Used: CSV files, Microsoft Power BI
 
-
+  [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/CSV%20Import%20-%20Power%20BI%20Project%20Screenshot.png" width="500" title="CSV Import-Power BI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Final%20Project%202%20-%20Employee%20Analysis%20-%20CSV%20Import.pbix)
  
 - <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Direct Query Data with Power BI</strong></a>
-  - Build a data analysis visual dashboard using Employee and Department data of a company. Analysis to be developed using SQL Direct Query Data and Power BI.
+  - Built a visual dashboard using Employee and Department data of a company. Initially, imported two CSV flat documents into an SQL Database and then created an SQL Direct Query command using an SQL Join clause. Finally, used the created Direct Query to connect the data into Power BI and developed the required visuals.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI
+ 
+  [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Direct%20Query%20-%20Power%20BI%20Project%20Screenshot.png" width="500" title="Direct Query-Power BI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Final%20Project%203%20-%20Employee%20Analysis%20-%20Direct%20Query.pbix)
+
 - <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Import Data with Power BI</strong></a>
-  - Build a data analysis visual dashboard using Employee and Department data of a company. Insights to be developed using SQL Import Data from the SQL Database and Power BI.
+  - Built an analytical visual dashboard using Employee and Department data of a company. Initially, imported two CSV flat documents into an SQL Database and then used Power BI's SQL Server Database Import function to connect to the data to develop the required visuals.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI
+
+  [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Import%20-%20Power%20BI%20Project%20Screenshot.png" width="500" title="SQL Import-Power BI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Final%20Project%204%20-%20Employee-Department%20Analysis%20-%20SQL%20Import.pbix)
+ 
+
+<strong>TBD</strong>
 - <a href="https://github.com/Beszter1"><strong>Visualization of SQL Data with Power BI using Python Program</strong></a>
   - Build a data analysis visual dashboard using Sales data of a company. Analysis to be developed using Power BI and SQL Data and Using Python Program.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI, Python 
