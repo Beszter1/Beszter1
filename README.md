@@ -23,13 +23,13 @@
   - Built a visual dashboard using Employee and Department data of a company. Initially, imported two CSV flat documents into an SQL Database and then created an SQL Direct Query command using an SQL Join clause. Finally, used the created Direct Query to connect the data to Power BI and developed the required visuals.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI
  
-  [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Direct%20Query%20-%20Power%20BI%20Project%20Screenshot.png" width="500" title="Direct Query-Power BI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Final%20Project%203%20-%20Employee%20Analysis%20-%20Direct%20Query.pbix)
+  [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Direct%20Query%20-%20Power%20BI%20Project%20Screenshot.png" width="500" title="Direct Query-Power BI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Direct%20Query%20-%20Power%20BI%20Project%20Screenshot.png)
 
 - <a href="https://github.com/Beszter1"><strong>Visualization Using SQL Import Data with Power BI</strong></a>
   - Built an analytical visual dashboard using Employee and Department data of a company. Initially, imported two CSV flat documents into an SQL Database and then used Power BI's SQL Server Database Import function to connect to the data to develop the required visuals.
   - Technologies Used: Microsoft SQL Server, Microsoft Power BI
 
-  [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Import%20-%20Power%20BI%20Project%20Screenshot.png" width="500" title="SQL Import-Power BI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Final%20Project%204%20-%20Employee-Department%20Analysis%20-%20SQL%20Import.pbix)
+  [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Import%20-%20Power%20BI%20Project%20Screenshot.png" width="500" title="SQL Import-Power BI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/SQL%20Import%20-%20Power%20BI%20Project%20Screenshot.png)
  
 
 <strong>TBD</strong>
