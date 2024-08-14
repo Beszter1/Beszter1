@@ -1,4 +1,25 @@
 <h1>Hi, I'm Eszter! <br/><a href="https://github.com/Beszter1">Data Analyst</a>, <a href="https://www.linkedin.com/in/eszter-stephen-bujtor/">Quality Management Professional</a>
+<h2>Portfolio Projects</h2>
+
+
+- <a href="https://github.com/Beszter1/COVID-Data-Exploration"><strong>CIVID Data Exploration</strong></a>
+  - Built an analytical visual dashboard using Covid Infection/Death and Covid Vaccination data based on the guided project by Alex the Analyst (https://www.youtube.com/@AlexTheAnalyst).  
+    Utilized  SQL queries for data exploration, applied JOIN clause for combining datasets and VIEW statement for virtual tables to use in Tableau.
+    Insights created:
+      o	Comparison of infection, death, and vaccination rates globally and in Hungary (my home country)
+      o	Effect of vaccinations on infection and death rates globally and in Hungary
+      o	Top 10 countries with highest infection and death rates
+      o	Total number of infected and deceased people since the beginning of the epidemic to  4/30/2021 and the death rate of COVID-19.
+  - Technologies used: Excel, SQL, Tableau
+
+    
+  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%201%20Screenshot.png" width="400" title="COVID Dashboard 1">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
+  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%202%20Screenshot.png" width="400" title="COVID Dashboard 2">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
+  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%203%20Screenshot.png" width="400" title="COVID Dashboard 3">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
+  
+
+
+  
 <h2>Data Analytics Training Projects</h2>
 
 - <a href="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx"><strong>Data Analysis using Excel Data</strong></a>
