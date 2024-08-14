@@ -5,11 +5,11 @@
 - <a href="https://github.com/Beszter1/COVID-Data-Exploration"><strong>COVID Data Exploration</strong></a>
   - Built an analytical visual dashboard using Covid Infection/Death and Covid Vaccination data based on the guided project by Alex the Analyst (https://www.youtube.com/@AlexTheAnalyst).  
     Utilized  SQL queries for data exploration, applied JOIN clause for combining datasets and VIEW statement for virtual tables to use in Tableau.
-    Insights created:
-      o	Comparison of infection, death, and vaccination rates globally and in Hungary (my home country)
-      o	Effect of vaccinations on infection and death rates globally and in Hungary
-      o	Top 10 countries with highest infection and death rates
-      o	Total number of infected and deceased people since the beginning of the epidemic to  4/30/2021 and the death rate of COVID-19.
+    - Insights created:
+      - Comparison of infection, death, and vaccination rates globally and in Hungary (my home country)
+      - Effect of vaccinations on infection and death rates globally and in Hungary
+      - Top 10 countries with highest infection and death rates
+      - Total number of infected and deceased people since the beginning of the epidemic to  4/30/2021 and the death rate of COVID-19.
   - Technologies used: Excel, SQL, Tableau
 
     
