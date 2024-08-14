@@ -2,7 +2,7 @@
 <h2>Portfolio Projects</h2>
 
 
-- <a href="https://github.com/Beszter1/COVID-Data-Exploration"><strong>COVID Data Exploration</strong></a>
+- <a href="https://github.com/Beszter1/COVID-Data-Exploration"><strong>COVID Data Exploration and Visualization</strong></a>
   - Built an analytical visual dashboard using Covid Infection/Death and Covid Vaccination data based on the guided project by Alex the Analyst (https://www.youtube.com/@AlexTheAnalyst).  
     Utilized  SQL queries for data exploration, applied JOIN clause for combining datasets and VIEW statement for virtual tables to use in Tableau.
     - Insights created:
