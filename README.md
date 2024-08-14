@@ -2,7 +2,7 @@
 <h2>Portfolio Projects</h2>
 
 
-- <a href="https://github.com/Beszter1/COVID-Data-Exploration"><strong>CIVID Data Exploration</strong></a>
+- <a href="https://github.com/Beszter1/COVID-Data-Exploration"><strong>COVID Data Exploration</strong></a>
   - Built an analytical visual dashboard using Covid Infection/Death and Covid Vaccination data based on the guided project by Alex the Analyst (https://www.youtube.com/@AlexTheAnalyst).  
     Utilized  SQL queries for data exploration, applied JOIN clause for combining datasets and VIEW statement for virtual tables to use in Tableau.
     Insights created:
@@ -13,9 +13,9 @@
   - Technologies used: Excel, SQL, Tableau
 
     
-  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%201%20Screenshot.png" width="400" title="COVID Dashboard 1">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
-  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%202%20Screenshot.png" width="400" title="COVID Dashboard 2">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
-  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%203%20Screenshot.png" width="400" title="COVID Dashboard 3">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel%20-%20Project%20-%20Eszter%20Stephen-Bujtor_v2.0.xlsx)
+  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%201%20Screenshot.png" width="500" title="COVID Dashboard 1">](https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%201%20Screenshot.png)
+  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%202%20Screenshot.png" width="500" title="COVID Dashboard 2">](https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%202%20Screenshot.png)
+  [<img src="https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%203%20Screenshot.png" width="500" title="COVID Dashboard 3">](https://github.com/Beszter1/COVID-Data-Exploration/blob/main/COVID%20Dashboard%203%20Screenshot.png)
   
 
 
