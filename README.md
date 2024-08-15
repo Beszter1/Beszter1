@@ -32,7 +32,7 @@
     - Created a data analysis visual dashboard using Sales data of a company. Applied data import from Excel into Power BI and data transformation in Power BI to display right currency values. Used various charts to create visual dashboard of the Sales data.
     - Technologies Used: Microsoft Excel, Microsoft Power BI
  
-   [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel-PowerBI%20Project%20Screenshot.png" width="500" title="Excel-PowerBI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Power%20BI%20Project%20-%20Video%20Games%20Sales%20-%20Eszter%20Stephen-Bujtor.pbix)  
+   [<img src="https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel-PowerBI%20Project%20Screenshot.png" width="500" title="Excel-PowerBI Project">](https://github.com/Beszter1/DataAnalyticsTraining/blob/main/Excel-PowerBI%20Project%20Screenshot.png)  
    
 - <a href="https://github.com/Beszter1"><strong>Visualization Using CSV Import Data with Power BI</strong></a>
   - Built an analytical visual dashboard using Employee and Department data of a company. This project uses two CSV flat data documents with an established relationship between them for descriptive analysis and deriving insights with Power BI. 
